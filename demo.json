@@ -1,0 +1,1837 @@
+{
+  "results": [
+    {
+      "total_count": 651,
+      "category": {
+        "name": "Top Overall",
+        "subtype": "free",
+        "id": 100
+      },
+      "timestamp": "2022-08-26T06:00:00Z",
+      "entries": [
+        {
+          "id": 41423135239,
+          "name": "TikTok",
+          "developer": "TikTok Pte. Ltd.",
+          "developer_id": 876442,
+          "storefront": "google_play",
+          "vendor_identifier": "com.zhiliaoapp.musically",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41427849462,
+          "name": "HBO Max: Stream TV & Movies",
+          "developer": "WarnerMedia Global Digital Services, LLC",
+          "developer_id": 458993,
+          "storefront": "google_play",
+          "vendor_identifier": "com.hbo.hbonow",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5563578,
+          "name": "WhatsApp Messenger",
+          "developer": "WhatsApp LLC",
+          "developer_id": 837190,
+          "storefront": "google_play",
+          "vendor_identifier": "com.whatsapp",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 26513264,
+          "name": "Instagram",
+          "developer": "Instagram",
+          "developer_id": 200542,
+          "storefront": "google_play",
+          "vendor_identifier": "com.instagram.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 37539849803,
+          "name": "Cash App",
+          "developer": "Square, Inc.",
+          "developer_id": 55500,
+          "storefront": "google_play",
+          "vendor_identifier": "com.squareup.cash",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40416942277,
+          "name": "Amazon Shopping",
+          "developer": "Amazon Mobile LLC",
+          "developer_id": 58904,
+          "storefront": "google_play",
+          "vendor_identifier": "com.amazon.mShop.android.shopping",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335346824665,
+          "name": "Survivor.io",
+          "developer": "Habby",
+          "developer_id": 2255174,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dxx.firenow",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 334913276630,
+          "name": "Stick Hero: Mighty Tower Wars",
+          "developer": "Rocket Game Studio",
+          "developer_id": 3567203,
+          "storefront": "google_play",
+          "vendor_identifier": "com.mgif.stickman.tower",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 332148264852,
+          "name": "Stumble Guys",
+          "developer": "Kitka Games",
+          "developer_id": 3955521,
+          "storefront": "google_play",
+          "vendor_identifier": "com.kitkagames.fallbuddies",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335098454672,
+          "name": "Deep Cleaner-Phone Faster",
+          "developer": "CleanerStudio",
+          "developer_id": 4821724,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sweet.boost.deepcleaner",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 213940691,
+          "name": "Snapchat",
+          "developer": "Snap Inc",
+          "developer_id": 746831,
+          "storefront": "google_play",
+          "vendor_identifier": "com.snapchat.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280369264784,
+          "name": "My Bath & Body Works",
+          "developer": "Bath and Body Works Mobile",
+          "developer_id": 2189047,
+          "storefront": "google_play",
+          "vendor_identifier": "com.bathandbody.bbw",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 6780987,
+          "name": "Messenger",
+          "developer": "Meta Platforms, Inc.",
+          "developer_id": 381780,
+          "storefront": "google_play",
+          "vendor_identifier": "com.facebook.orca",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 276515789,
+          "name": "ZOOM Cloud Meetings",
+          "developer": "zoom.us",
+          "developer_id": 850698,
+          "storefront": "google_play",
+          "vendor_identifier": "us.zoom.videomeetings",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5546283,
+          "name": "Indeed Job Search",
+          "developer": "Indeed Jobs",
+          "developer_id": 495433,
+          "storefront": "google_play",
+          "vendor_identifier": "com.indeed.android.jobsearch",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 34879087545,
+          "name": "Telegram",
+          "developer": "Telegram FZ-LLC",
+          "developer_id": 782986,
+          "storefront": "google_play",
+          "vendor_identifier": "org.telegram.messenger",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5569907,
+          "name": "Facebook",
+          "developer": "Meta Platforms, Inc.",
+          "developer_id": 381780,
+          "storefront": "google_play",
+          "vendor_identifier": "com.facebook.katana",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40303044361,
+          "name": "Tubi - Movies & TV Shows",
+          "developer": "Tubi TV",
+          "developer_id": 807600,
+          "storefront": "google_play",
+          "vendor_identifier": "com.tubitv",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40107230833,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "developer_id": 688774,
+          "storefront": "google_play",
+          "vendor_identifier": "com.roblox.client",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5566742,
+          "name": "Netflix",
+          "developer": "Netflix, Inc.",
+          "developer_id": 579305,
+          "storefront": "google_play",
+          "vendor_identifier": "com.netflix.mediaclient",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281667725593,
+          "name": "Disney+",
+          "developer": "Disney",
+          "developer_id": 708,
+          "storefront": "google_play",
+          "vendor_identifier": "com.disney.disneyplus",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40338115549,
+          "name": "McDonald's",
+          "developer": "McDonalds USA, LLC",
+          "developer_id": 577915,
+          "storefront": "google_play",
+          "vendor_identifier": "com.mcdonalds.app",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40063848183,
+          "name": "Spotify: Music and Podcasts",
+          "developer": "Spotify AB",
+          "developer_id": 756442,
+          "storefront": "google_play",
+          "vendor_identifier": "com.spotify.music",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 334428259715,
+          "name": "Bravo Cleaner: Speed Booster",
+          "developer": "Bravo GmbH",
+          "developer_id": 157,
+          "storefront": "google_play",
+          "vendor_identifier": "com.engro.cleanerforsns",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 213454021,
+          "name": "Remind: School Communication",
+          "developer": "Remind101",
+          "developer_id": 699979,
+          "storefront": "google_play",
+          "vendor_identifier": "com.remind101",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 39955647427,
+          "name": "Pluto TV - Live TV and Movies",
+          "developer": "Pluto, Inc.",
+          "developer_id": 650216,
+          "storefront": "google_play",
+          "vendor_identifier": "tv.pluto.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 308329864,
+          "name": "ClassDojo",
+          "developer": "ClassDojo",
+          "developer_id": 271475,
+          "storefront": "google_play",
+          "vendor_identifier": "com.classdojo.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 282964885960,
+          "name": "CapCut - Video Editor",
+          "developer": "Bytedance Pte. Ltd.",
+          "developer_id": 7489,
+          "storefront": "google_play",
+          "vendor_identifier": "com.lemon.lvoverseas",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5557707,
+          "name": "PayPal - Send, Shop, Manage",
+          "developer": "PayPal Mobile",
+          "developer_id": 653225,
+          "storefront": "google_play",
+          "vendor_identifier": "com.paypal.android.p2pmobile",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5552993,
+          "name": "Walmart Shopping & Grocery",
+          "developer": "Walmart",
+          "developer_id": 829936,
+          "storefront": "google_play",
+          "vendor_identifier": "com.walmart.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41076481189,
+          "name": "QR & Barcode Scanner",
+          "developer": "Gamma Play",
+          "developer_id": 6141,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gamma.scan",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335261389903,
+          "name": "GT Car Stunt Master 3D",
+          "developer": "Zego Global Publishing",
+          "developer_id": 4179315,
+          "storefront": "google_play",
+          "vendor_identifier": "com.jura.car.stunt.master",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 212871257,
+          "name": "TextNow: Call + Text Unlimited",
+          "developer": "TextNow, Inc.",
+          "developer_id": 785394,
+          "storefront": "google_play",
+          "vendor_identifier": "com.enflick.android.TextNow",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 310476309317,
+          "name": "Peacock TV: Stream TV & Movies",
+          "developer": "Peacock TV LLC",
+          "developer_id": 3825889,
+          "storefront": "google_play",
+          "vendor_identifier": "com.peacocktv.peacockandroid",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41279583613,
+          "name": "Discord: Talk, Chat & Hang Out",
+          "developer": "Discord Inc.",
+          "developer_id": 334738,
+          "storefront": "google_play",
+          "vendor_identifier": "com.discord",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281944910457,
+          "name": "Pull the Pin",
+          "developer": "Popcore Games",
+          "developer_id": 3595999,
+          "storefront": "google_play",
+          "vendor_identifier": "com.maroieqrwlk.unpin",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 267494274980,
+          "name": "Microsoft Teams",
+          "developer": "Microsoft Corporation",
+          "developer_id": 1842,
+          "storefront": "google_play",
+          "vendor_identifier": "com.microsoft.teams",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41664935331,
+          "name": "Amazon Prime Video",
+          "developer": "Amazon Mobile LLC",
+          "developer_id": 58904,
+          "storefront": "google_play",
+          "vendor_identifier": "com.amazon.avod.thirdpartyclient",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5557982,
+          "name": "Venmo",
+          "developer": "PayPal, Inc.",
+          "developer_id": 821626,
+          "storefront": "google_play",
+          "vendor_identifier": "com.venmo",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335101182419,
+          "name": "Easy Booster",
+          "developer": "Mini tool",
+          "developer_id": 4796823,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gleam.betty.easybooster",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 39942673522,
+          "name": "SHEIN-Fashion Shopping Online",
+          "developer": "Roadget Business PTE. LTD.",
+          "developer_id": 733261,
+          "storefront": "google_play",
+          "vendor_identifier": "com.zzkko",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5545051,
+          "name": "Life360: Find Family & Friends",
+          "developer": "Life360",
+          "developer_id": 389560,
+          "storefront": "google_play",
+          "vendor_identifier": "com.life360.android.safetymapd",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335040915163,
+          "name": "Zombie Defense",
+          "developer": "Blue Banana 188",
+          "developer_id": 4804986,
+          "storefront": "google_play",
+          "vendor_identifier": "com.yorfstudio.zdefense",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 19161757,
+          "name": "Roku - Official Remote Control",
+          "developer": "Roku Inc.",
+          "developer_id": 706966,
+          "storefront": "google_play",
+          "vendor_identifier": "com.roku.remote",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5566800,
+          "name": "Hulu: Watch TV shows & movies",
+          "developer": "Disney",
+          "developer_id": 482377,
+          "storefront": "google_play",
+          "vendor_identifier": "com.hulu.plus",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40148939848,
+          "name": "Samsung Smart Switch Mobile",
+          "developer": "Samsung Electronics Co.,  Ltd.",
+          "developer_id": 123362,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sec.android.easyMover",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281978849190,
+          "name": "Parking Jam 3D",
+          "developer": "Popcore Games",
+          "developer_id": 3191843,
+          "storefront": "google_play",
+          "vendor_identifier": "com.lszenlamzr.parkingjam",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5548418,
+          "name": "Expedia: Hotels, Flights & Car",
+          "developer": "Expedia",
+          "developer_id": 78715,
+          "storefront": "google_play",
+          "vendor_identifier": "com.expedia.bookings",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41112217031,
+          "name": "DoorDash - Food Delivery",
+          "developer": "DoorDash",
+          "developer_id": 319412,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dd.doordash",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 335363687576,
+          "name": "Button Fever",
+          "developer": "Rollic Games",
+          "developer_id": 3350297,
+          "storefront": "google_play",
+          "vendor_identifier": "com.vp.shootingbutton",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        }
+      ]
+    },
+    {
+      "total_count": 631,
+      "category": {
+        "name": "Top Overall",
+        "subtype": "paid",
+        "id": 100
+      },
+      "timestamp": "2022-08-26T06:00:00Z",
+      "entries": [
+        {
+          "id": 6938219,
+          "name": "Minecraft",
+          "developer": "Mojang",
+          "developer_id": 561073,
+          "storefront": "google_play",
+          "vendor_identifier": "com.mojang.minecraftpe",
+          "price": {
+            "currency": "USD",
+            "price": 7.49
+          }
+        },
+        {
+          "id": 280708057728,
+          "name": "Bloons TD 6",
+          "developer": "ninja kiwi",
+          "developer_id": null,
+          "storefront": "google_play",
+          "vendor_identifier": "com.ninjakiwi.bloonstd6",
+          "price": {
+            "currency": "USD",
+            "price": 6.99
+          }
+        },
+        {
+          "id": 31987303955,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games",
+          "developer_id": 200561,
+          "storefront": "google_play",
+          "vendor_identifier": "com.robtopx.geometryjump",
+          "price": {
+            "currency": "USD",
+            "price": 1.99
+          }
+        },
+        {
+          "id": 335518127572,
+          "name": "Poppy Playtime Chapter 2",
+          "developer": "MOB Games Studio",
+          "developer_id": 4674593,
+          "storefront": "google_play",
+          "vendor_identifier": "com.MOBGames.PoppyMobileChap2",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 281776032504,
+          "name": "MONOPOLY - Classic Board Game",
+          "developer": "Marmalade Game Studio",
+          "developer_id": 754876,
+          "storefront": "google_play",
+          "vendor_identifier": "com.marmalade.monopoly",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 281177468566,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "developer_id": 3015724,
+          "storefront": "google_play",
+          "vendor_identifier": "com.chucklefish.stardewvalley",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 334560502420,
+          "name": "MD170B: Digital watch face",
+          "developer": "Matteo Dini MD ®",
+          "developer_id": 4426767,
+          "storefront": "google_play",
+          "vendor_identifier": "com.watchfacestudio.md170b",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 334831542876,
+          "name": "Rovio Classics: AB",
+          "developer": "Rovio Entertainment Corporation",
+          "developer_id": 94728,
+          "storefront": "google_play",
+          "vendor_identifier": "com.rovio.abclassic22",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 280548481168,
+          "name": "Incredibox",
+          "developer": "So Far So Good",
+          "developer_id": 495378,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sofarsogood.incredibox",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 5563323,
+          "name": "HotSchedules",
+          "developer": "HotSchedules",
+          "developer_id": 480178,
+          "storefront": "google_play",
+          "vendor_identifier": "com.tdr3.hs.android",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 37508164685,
+          "name": "Terraria",
+          "developer": "505 Games Srl",
+          "developer_id": 165261,
+          "storefront": "google_play",
+          "vendor_identifier": "com.and.games505.TerrariaPaid",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 334570949032,
+          "name": "Poppy Playtime Chapter 1",
+          "developer": "MOB Games Studio",
+          "developer_id": 4674593,
+          "storefront": "google_play",
+          "vendor_identifier": "com.MOBGames.PoppyMobileChap1",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 265035202790,
+          "name": "Mini Metro",
+          "developer": "Dinosaur Polo Club",
+          "developer_id": 377943,
+          "storefront": "google_play",
+          "vendor_identifier": "nz.co.codepoint.minimetro",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 334526661156,
+          "name": "Dark MODE Watch Face",
+          "developer": "DK Watch",
+          "developer_id": 4415852,
+          "storefront": "google_play",
+          "vendor_identifier": "com.watchfacestudio.dark_mode",
+          "price": {
+            "currency": "USD",
+            "price": 1.49
+          }
+        },
+        {
+          "id": 28374887215,
+          "name": "DraStic DS Emulator",
+          "developer": "Exophase",
+          "developer_id": 343865,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dsemu.drastic",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 335453352769,
+          "name": "Papers, Please",
+          "developer": "3909",
+          "developer_id": 501680,
+          "storefront": "google_play",
+          "vendor_identifier": "com.llc3909.papersplease",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 39795817962,
+          "name": "Grand Theft Auto: San Andreas",
+          "developer": "Rockstar Games",
+          "developer_id": 168988,
+          "storefront": "google_play",
+          "vendor_identifier": "com.rockstargames.gtasa",
+          "price": {
+            "currency": "USD",
+            "price": 6.99
+          }
+        },
+        {
+          "id": 333959069071,
+          "name": "Slay the Spire",
+          "developer": "Humble Games",
+          "developer_id": 1461239,
+          "storefront": "google_play",
+          "vendor_identifier": "com.humble.SlayTheSpire",
+          "price": {
+            "currency": "USD",
+            "price": 9.99
+          }
+        },
+        {
+          "id": 212750063,
+          "name": "My Boy! - GBA Emulator",
+          "developer": "Fast Emulator",
+          "developer_id": 369136,
+          "storefront": "google_play",
+          "vendor_identifier": "com.fastemulator.gba",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 231068514,
+          "name": "Bloons TD 5",
+          "developer": "ninja kiwi",
+          "developer_id": 165474,
+          "storefront": "google_play",
+          "vendor_identifier": "com.ninjakiwi.bloonstd5",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 280811595636,
+          "name": "Pocket City",
+          "developer": "Codebrew Games",
+          "developer_id": 2944574,
+          "storefront": "google_play",
+          "vendor_identifier": "com.codebrewgames.pocketcitygame",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 5551902,
+          "name": "Torque Pro (OBD 2 & Car)",
+          "developer": "Ian Hawkins",
+          "developer_id": 551531,
+          "storefront": "google_play",
+          "vendor_identifier": "org.prowl.torque",
+          "price": {
+            "currency": "USD",
+            "price": 4.95
+          }
+        },
+        {
+          "id": 335267403182,
+          "name": "Dicey Dungeons",
+          "developer": "Terry Cavanagh",
+          "developer_id": 340234,
+          "storefront": "google_play",
+          "vendor_identifier": "com.terrycavanaghgames.diceydungeons",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 215467878,
+          "name": "Grand Theft Auto: Vice City",
+          "developer": "Rockstar Games",
+          "developer_id": 168988,
+          "storefront": "google_play",
+          "vendor_identifier": "com.rockstargames.gtavc",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 280709261259,
+          "name": "Poly Bridge",
+          "developer": "Dry Cactus Limited",
+          "developer_id": 2106700,
+          "storefront": "google_play",
+          "vendor_identifier": "com.drycactus.polybridge",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 40237441504,
+          "name": "Five Nights at Freddy's",
+          "developer": "Clickteam USA LLC",
+          "developer_id": 14456,
+          "storefront": "google_play",
+          "vendor_identifier": "com.scottgames.fivenightsatfreddys",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 41116719781,
+          "name": "Litchi for DJI Drones",
+          "developer": "VC Technology Ltd",
+          "developer_id": 550031,
+          "storefront": "google_play",
+          "vendor_identifier": "com.aryuthere.visionplus",
+          "price": {
+            "currency": "USD",
+            "price": 24.99
+          }
+        },
+        {
+          "id": 334529637484,
+          "name": "Flora Elegant Multicolor NXV84",
+          "developer": "NXV Watch Face",
+          "developer_id": 4432633,
+          "storefront": "google_play",
+          "vendor_identifier": "com.watchfacestudio.nxv84",
+          "price": {
+            "currency": "USD",
+            "price": 1.49
+          }
+        },
+        {
+          "id": 41265594860,
+          "name": "TonalEnergy Tuner & Metronome",
+          "developer": "TonalEnergy, Inc",
+          "developer_id": 348420,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sonosaurus.tonalenergytuner",
+          "price": {
+            "currency": "USD",
+            "price": 3.99
+          }
+        },
+        {
+          "id": 181257878289,
+          "name": "Exploding Kittens® - Official",
+          "developer": "Exploding Kittens, Inc",
+          "developer_id": 379632,
+          "storefront": "google_play",
+          "vendor_identifier": "com.explodingkittens.projectbombsquad",
+          "price": {
+            "currency": "USD",
+            "price": 1.99
+          }
+        },
+        {
+          "id": 300277023235,
+          "name": "The Game of Life 2",
+          "developer": "Marmalade Game Studio",
+          "developer_id": 754876,
+          "storefront": "google_play",
+          "vendor_identifier": "com.marmalade.gol2",
+          "price": {
+            "currency": "USD",
+            "price": 3.99
+          }
+        },
+        {
+          "id": 39787286535,
+          "name": "The Room",
+          "developer": "Fireproof Games",
+          "developer_id": 790518,
+          "storefront": "google_play",
+          "vendor_identifier": "com.FireproofStudios.TheRoom",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 334570953358,
+          "name": "UsA Chalk - USA126",
+          "developer": "USA Design Watch Face",
+          "developer_id": 4487466,
+          "storefront": "google_play",
+          "vendor_identifier": "com.usadesign.usachalk",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 280011272414,
+          "name": "Iron Marines: RTS offline Game",
+          "developer": "Ironhide Games",
+          "developer_id": 271299,
+          "storefront": "google_play",
+          "vendor_identifier": "com.ironhidegames.android.ironmarines",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 212282040,
+          "name": "The Wonder Weeks",
+          "developer": "The Wonder Weeks",
+          "developer_id": 151307,
+          "storefront": "google_play",
+          "vendor_identifier": "org.twisevictory.apps",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 17115413,
+          "name": "Nova Launcher Prime",
+          "developer": "TeslaCoil Software",
+          "developer_id": 477696,
+          "storefront": "google_play",
+          "vendor_identifier": "com.teslacoilsw.launcher.prime",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 281728669127,
+          "name": "Bad North: Jotunn Edition",
+          "developer": "Raw Fury",
+          "developer_id": 1181023,
+          "storefront": "google_play",
+          "vendor_identifier": "com.PlausibleConcept.BadNorthFull",
+          "price": {
+            "currency": "USD",
+            "price": 3.99
+          }
+        },
+        {
+          "id": 334973534253,
+          "name": "名門ポケット学院3",
+          "developer": "Kairosoft",
+          "developer_id": 106822,
+          "storefront": "google_play",
+          "vendor_identifier": "net.kairosoft.android.school3",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 39893994456,
+          "name": "Papa's Freezeria To Go!",
+          "developer": "Flipline Studios",
+          "developer_id": 649163,
+          "storefront": "google_play",
+          "vendor_identifier": "air.com.flipline.papasfreezeriatogo",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 280148361343,
+          "name": "Toca Life: Hospital",
+          "developer": "Toca Boca",
+          "developer_id": 647698,
+          "storefront": "google_play",
+          "vendor_identifier": "com.tocaboca.tocahospital",
+          "price": {
+            "currency": "USD",
+            "price": 3.99
+          }
+        },
+        {
+          "id": 40290239921,
+          "name": "SkyView® Explore the Universe",
+          "developer": "Terminal Eleven",
+          "developer_id": 741774,
+          "storefront": "google_play",
+          "vendor_identifier": "com.t11.skyview",
+          "price": {
+            "currency": "USD",
+            "price": 1.99
+          }
+        },
+        {
+          "id": 305863354863,
+          "name": "75 Hard",
+          "developer": "44Seven Media",
+          "developer_id": 3785624,
+          "storefront": "google_play",
+          "vendor_identifier": "com.media44seven.seventyfivehard",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 334538265400,
+          "name": "WFP 160 Luxury Mod2 Watch Face",
+          "developer": "WFProduction by A.Kovalev",
+          "developer_id": 4455258,
+          "storefront": "google_play",
+          "vendor_identifier": "com.watchfacestudio.wfp160_luxury_Mod2",
+          "price": {
+            "currency": "USD",
+            "price": 1.99
+          }
+        },
+        {
+          "id": 286690452613,
+          "name": "Ultimate Custom Night",
+          "developer": "Clickteam USA LLC",
+          "developer_id": 3357970,
+          "storefront": "google_play",
+          "vendor_identifier": "com.clickteam.ultimatecustomnight",
+          "price": {
+            "currency": "USD",
+            "price": 2.99
+          }
+        },
+        {
+          "id": 334014895592,
+          "name": "Dawncaster: Deckbuilding RPG",
+          "developer": "Wanderlost Interactive",
+          "developer_id": 4198396,
+          "storefront": "google_play",
+          "vendor_identifier": "games.WanderlostInteractive.Dawncaster",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 7997250129,
+          "name": "FL Studio Mobile",
+          "developer": "Image-Line",
+          "developer_id": 384064,
+          "storefront": "google_play",
+          "vendor_identifier": "com.imageline.FLM",
+          "price": {
+            "currency": "USD",
+            "price": 14.99
+          }
+        },
+        {
+          "id": 289633333479,
+          "name": "Screen Mirroring Pro for Roku",
+          "developer": "2kit consulting",
+          "developer_id": 293840,
+          "storefront": "google_play",
+          "vendor_identifier": "de.twokit.screen.mirroring.app.roku.pro",
+          "price": {
+            "currency": "USD",
+            "price": 4.99
+          }
+        },
+        {
+          "id": 334566193362,
+          "name": "HMKWatch Analog 264",
+          "developer": "HMKWatch",
+          "developer_id": 4424190,
+          "storefront": "google_play",
+          "vendor_identifier": "com.watchfacestudio.hmk_Analog_264",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        },
+        {
+          "id": 22127220740,
+          "name": "True Skate",
+          "developer": "True Axis",
+          "developer_id": 509321,
+          "storefront": "google_play",
+          "vendor_identifier": "com.trueaxis.trueskate",
+          "price": {
+            "currency": "USD",
+            "price": 1.99
+          }
+        },
+        {
+          "id": 281218530095,
+          "name": "Pirates Outlaws",
+          "developer": "Fabled Game",
+          "developer_id": 3152346,
+          "storefront": "google_play",
+          "vendor_identifier": "com.piratesoutlaws.fabledgame",
+          "price": {
+            "currency": "USD",
+            "price": 0.99
+          }
+        }
+      ]
+    },
+    {
+      "total_count": 644,
+      "category": {
+        "name": "Top Grossing",
+        "subtype": "topgrossing",
+        "id": 100
+      },
+      "timestamp": "2022-08-26T06:00:00Z",
+      "entries": [
+        {
+          "id": 280732768438,
+          "name": "Google One",
+          "developer": "Google LLC",
+          "developer_id": 58926,
+          "storefront": "google_play",
+          "vendor_identifier": "com.google.android.apps.subscriptions.red",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 214225359,
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "developer_id": 35226,
+          "storefront": "google_play",
+          "vendor_identifier": "com.king.candycrushsaga",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41427849462,
+          "name": "HBO Max: Stream TV & Movies",
+          "developer": "WarnerMedia Global Digital Services, LLC",
+          "developer_id": 458993,
+          "storefront": "google_play",
+          "vendor_identifier": "com.hbo.hbonow",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41423135239,
+          "name": "TikTok",
+          "developer": "TikTok Pte. Ltd.",
+          "developer_id": 876442,
+          "storefront": "google_play",
+          "vendor_identifier": "com.zhiliaoapp.musically",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 42036609289,
+          "name": "Coin Master",
+          "developer": "Moon Active",
+          "developer_id": 187285,
+          "storefront": "google_play",
+          "vendor_identifier": "com.moonactive.coinmaster",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281667725593,
+          "name": "Disney+",
+          "developer": "Disney",
+          "developer_id": 708,
+          "storefront": "google_play",
+          "vendor_identifier": "com.disney.disneyplus",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40107230833,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "developer_id": 688774,
+          "storefront": "google_play",
+          "vendor_identifier": "com.roblox.client",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 189552686113,
+          "name": "Evony: The King's Return",
+          "developer": "TG Inc.",
+          "developer_id": 102730,
+          "storefront": "google_play",
+          "vendor_identifier": "com.topgamesinc.evony",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5555854,
+          "name": "Pandora - Music & Podcasts",
+          "developer": "Pandora",
+          "developer_id": 648771,
+          "storefront": "google_play",
+          "vendor_identifier": "com.pandora.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 213062032,
+          "name": "Bingo Blitz™️ - Bingo Games",
+          "developer": "Playtika Santa Monica",
+          "developer_id": 143968,
+          "storefront": "google_play",
+          "vendor_identifier": "air.com.buffalo_studios.newflashbingo",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 234336969115,
+          "name": "Pokémon GO",
+          "developer": "Niantic, Inc.",
+          "developer_id": 396337,
+          "storefront": "google_play",
+          "vendor_identifier": "com.nianticlabs.pokemongo",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 312528558451,
+          "name": "Royal Match",
+          "developer": "Dream Games Ltd.",
+          "developer_id": 359336,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dreamgames.royalmatch",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5565466,
+          "name": "ESPN",
+          "developer": "Disney",
+          "developer_id": 356011,
+          "storefront": "google_play",
+          "vendor_identifier": "com.espn.score_center",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280411336845,
+          "name": "Garena Free Fire: 5th Anniv.",
+          "developer": "Garena International I",
+          "developer_id": 2216327,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dts.freefireth",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280776861244,
+          "name": "RAID: Shadow Legends",
+          "developer": "Plarium Global Ltd",
+          "developer_id": 281974,
+          "storefront": "google_play",
+          "vendor_identifier": "com.plarium.raidlegends",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41279615498,
+          "name": "Twitch: Live Game Streaming",
+          "developer": "Twitch Interactive, Inc.",
+          "developer_id": 809308,
+          "storefront": "google_play",
+          "vendor_identifier": "tv.twitch.android.app",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 1784703699,
+          "name": "Jackpot Party Casino Slots",
+          "developer": "SciPlay",
+          "developer_id": 86525,
+          "storefront": "google_play",
+          "vendor_identifier": "com.williamsinteractive.jackpotparty",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5549437,
+          "name": "Audible: audiobooks & podcasts",
+          "developer": "Audible, Inc",
+          "developer_id": 95866,
+          "storefront": "google_play",
+          "vendor_identifier": "com.audible.application",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280282224748,
+          "name": "Homescapes",
+          "developer": "Playrix",
+          "developer_id": 28131,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playrix.homescapes",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 40087795429,
+          "name": "Candy Crush Soda Saga",
+          "developer": "King",
+          "developer_id": 35226,
+          "storefront": "google_play",
+          "vendor_identifier": "com.king.candycrushsodasaga",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 39760464910,
+          "name": "Township",
+          "developer": "Playrix",
+          "developer_id": 28131,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playrix.township",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280283236954,
+          "name": "Solitaire Grand Harvest",
+          "developer": "Supertreat - A Playtika Studio",
+          "developer_id": 2111832,
+          "storefront": "google_play",
+          "vendor_identifier": "net.supertreat.solitaire",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41878040986,
+          "name": "Bumble - Dating. Friends. Bizz",
+          "developer": "Bumble Holding Limited",
+          "developer_id": 215156,
+          "storefront": "google_play",
+          "vendor_identifier": "com.bumble.app",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 21873618171,
+          "name": "Tinder: Dating app. Meet. Chat",
+          "developer": "Tinder",
+          "developer_id": 796527,
+          "storefront": "google_play",
+          "vendor_identifier": "com.tinder",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 42016568932,
+          "name": "Fishdom",
+          "developer": "Playrix",
+          "developer_id": 28131,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playrix.fishdomdd.gplay",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281247223791,
+          "name": "Call of Duty Mobile Season 7",
+          "developer": "Activision Publishing, Inc.",
+          "developer_id": 66238,
+          "storefront": "google_play",
+          "vendor_identifier": "com.activision.callofduty.shooter",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 310476309317,
+          "name": "Peacock TV: Stream TV & Movies",
+          "developer": "Peacock TV LLC",
+          "developer_id": 3825889,
+          "storefront": "google_play",
+          "vendor_identifier": "com.peacocktv.peacockandroid",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281415983828,
+          "name": "State of Survival: Zombie War",
+          "developer": "FunPlus International",
+          "developer_id": 2424006,
+          "storefront": "google_play",
+          "vendor_identifier": "com.kingsgroup.sos",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 319432825163,
+          "name": "Puzzles & Survival",
+          "developer": "37GAMES",
+          "developer_id": 425178,
+          "storefront": "google_play",
+          "vendor_identifier": "com.global.ztmslg",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 269990582512,
+          "name": "Toon Blast",
+          "developer": "Peak",
+          "developer_id": 8340,
+          "storefront": "google_play",
+          "vendor_identifier": "net.peakgames.toonblast",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280450753285,
+          "name": "Lotsa Slots - Casino Games",
+          "developer": "SpinX Games Limited",
+          "developer_id": 2248643,
+          "storefront": "google_play",
+          "vendor_identifier": "com.diamondlife.slots.vegas.free",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 334888932791,
+          "name": "Tower of Fantasy",
+          "developer": "Level Infinite",
+          "developer_id": 2944373,
+          "storefront": "google_play",
+          "vendor_identifier": "com.levelinfinite.hotta.gp",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 266979930125,
+          "name": "Cashman Casino Las Vegas Slots",
+          "developer": "Product Madness",
+          "developer_id": 183996,
+          "storefront": "google_play",
+          "vendor_identifier": "com.productmadness.cashmancasino",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 15246303,
+          "name": "Slotomania™ Slots Casino Games",
+          "developer": "Playtika",
+          "developer_id": 232324,
+          "storefront": "google_play",
+          "vendor_identifier": "air.com.playtika.slotomania",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5566886,
+          "name": "Crunchyroll",
+          "developer": "Ellation, LLC",
+          "developer_id": 129806,
+          "storefront": "google_play",
+          "vendor_identifier": "com.crunchyroll.crunchyroid",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 37525962203,
+          "name": "Paramount+ | Peak Streaming",
+          "developer": "CBS Interactive, Inc.",
+          "developer_id": 29517,
+          "storefront": "google_play",
+          "vendor_identifier": "com.cbs.app",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 232283982276,
+          "name": "Empires & Puzzles: Match-3 RPG",
+          "developer": "Zynga",
+          "developer_id": 633164,
+          "storefront": "google_play",
+          "vendor_identifier": "com.smallgiantgames.empires",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280962023702,
+          "name": "Diablo Immortal",
+          "developer": "Blizzard Entertainment, Inc.",
+          "developer_id": 157,
+          "storefront": "google_play",
+          "vendor_identifier": "com.blizzard.diablo.immortal",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280292286497,
+          "name": "Merge Dragons!",
+          "developer": "Gram Games Limited",
+          "developer_id": 8477,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gramgames.mergedragons",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280844667763,
+          "name": "Star Trek™ Fleet Command",
+          "developer": "Scopely",
+          "developer_id": null,
+          "storefront": "google_play",
+          "vendor_identifier": "com.scopely.startrek",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 5565469,
+          "name": "NFL",
+          "developer": "NFL Enterprises LLC",
+          "developer_id": 389885,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gotv.nflgamecenter.us.lite",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280590944308,
+          "name": "MARVEL Strike Force: Squad RPG",
+          "developer": "Scopely",
+          "developer_id": 2278729,
+          "storefront": "google_play",
+          "vendor_identifier": "com.foxnextgames.m3",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41355309678,
+          "name": "Huuuge Casino Slots Vegas 777",
+          "developer": "Huuuge Games - Play Together",
+          "developer_id": 657441,
+          "storefront": "google_play",
+          "vendor_identifier": "com.huuuge.casino.slots",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 41461519960,
+          "name": "Gardenscapes",
+          "developer": "Playrix",
+          "developer_id": 28131,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playrix.gardenscapes",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 281106678263,
+          "name": "Cash Frenzy™ - Casino Slots",
+          "developer": "SpinX Games Limited",
+          "developer_id": 2248643,
+          "storefront": "google_play",
+          "vendor_identifier": "slots.pcg.casino.games.free.android",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 280848226523,
+          "name": "Lightning Link Casino Slots",
+          "developer": "Product Madness",
+          "developer_id": 183996,
+          "storefront": "google_play",
+          "vendor_identifier": "com.productmadness.lightninglink",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 21966520749,
+          "name": "Tiki Solitaire TriPeaks",
+          "developer": "GSN Games, Inc.",
+          "developer_id": 183898,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gsn.android.tripeaks",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 42097625811,
+          "name": "POP! Slots™ Vegas Casino Games",
+          "developer": "PLAYSTUDIOS INC",
+          "developer_id": 188766,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playstudios.popslots",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 320800620901,
+          "name": "Genshin Impact - Sumeru Debut",
+          "developer": "COGNOSPHERE PTE. LTD.",
+          "developer_id": 933075,
+          "storefront": "google_play",
+          "vendor_identifier": "com.miHoYo.GenshinImpact",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        },
+        {
+          "id": 26590703,
+          "name": "DoubleDown Casino Vegas Slots",
+          "developer": "DoubleDown Interactive LLC",
+          "developer_id": 342587,
+          "storefront": "google_play",
+          "vendor_identifier": "com.ddi",
+          "price": {
+            "currency": "USD",
+            "price": 0
+          }
+        }
+      ]
+    }
+  ]
+}
