@@ -113,9 +113,6 @@ class ExampleSpider(scrapy.Spider):
             star = ''
         try:
             google_description = data['description']
-            s = Selector(google_description)
-            google_description = '\n'.join(s.xpath('''//text()''').extract())
-            google_description = unescape(google_description)
         except:
             google_description = ''
             print(response.meta)

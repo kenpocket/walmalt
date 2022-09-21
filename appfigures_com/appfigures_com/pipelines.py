@@ -7,7 +7,7 @@ class AppfiguresComPipeline:
         self.mongo_cli = pymongo.MongoClient(host='127.0.0.1', port=27017)
         # self.mongo_cli = pymongo.MongoClient(host='192.168.131.163', port=27017, username='mongouser', password='JHFjsh980$#@.')
         self.mongo_db = self.mongo_cli['crawlab_test']
-        self.collection = self.mongo_db['Store_Rewiews']
+        self.collection = self.mongo_db['descs']
 
     @classmethod
     def from_crawler(cls, crawler):

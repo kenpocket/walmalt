@@ -5,7 +5,7 @@ import json
 
 
 def run(playwright: Playwright, keywords: str) -> None:
-    browser = playwright.chromium.launch(headless=True)
+    browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
 
     # Open new page
@@ -72,5 +72,5 @@ with sync_playwright() as playwright:
 
     for d in data:
         d = json.loads(d.strip())
-        print(d[name])
+        print(d['name'])
         run(playwright, keywords=d['name'])
